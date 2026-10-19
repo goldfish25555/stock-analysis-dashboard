@@ -1,0 +1,39 @@
+# Byte-compiled / virtual env
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtual env
+.venv/
+env/
+ENV/
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Database and env
+.env
+*.db
+*.sqlite3
+
+# Editor backups
+.vscode/
+.idea/
+*.swp
+
+# macOS
+.DS_Store
